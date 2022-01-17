@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Coba di TUF'),
+      home: MyHomePage(title: 'INI DI PC'),
     );
   }
 }
