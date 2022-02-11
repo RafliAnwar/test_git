@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Ini dI TUF yow'),
+      home: MyHomePage(title: 'Ini dI PC'),
     );
   }
 }
